@@ -1,0 +1,15 @@
+# Environnement virtuel
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Données générées par les scrapers (volumineuses, régénérables)
+*.db
+page_debug.html
+
+# OS
+.DS_Store
+Thumbs.db
