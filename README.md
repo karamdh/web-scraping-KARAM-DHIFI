@@ -6,9 +6,9 @@ Ce repo regroupe les TP réalisés pendant la semaine "Web Scraping" du Mastère
 
 | Jour | Dossier | Sujet |
 |---|---|---|
-| Jour 1 | [`jour-01-requests-beautifulsoup/`](jour-01-requests-beautifulsoup/) | Veille technologique automatisée — scraper le Blog du Modérateur avec `requests` + `BeautifulSoup4`, export CSV + SQLite |
-
-*(les dossiers des jours suivants seront ajoutés au fur et à mesure de la semaine)*
+| Jour 1 | `jour-01-requests-beautifulsoup/` | Veille technologique automatisée — scraper le Blog du Modérateur avec `requests` + `BeautifulSoup4`, export CSV + SQLite |
+| Jour 2 | `jour-02-selenium/` | Scraping dynamique avec Selenium — Doctolib et Les Echos |
+| Jour 3 | `jour-03-scrapy/` | Framework Scrapy — Boursorama (CAC 40, SQLite), Défi 1 : agenda culturel de Nice (jds.fr). AlloCine bloqué par Cloudflare Turnstile, documenté en remplacement |
 
 ## Organisation
 
