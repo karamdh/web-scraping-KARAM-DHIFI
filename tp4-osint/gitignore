@@ -1,0 +1,16 @@
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environnements virtuels (si tu en crees un plus tard)
+venv/
+.venv/
+
+# Fichiers Scrapy generes automatiquement (facultatif -- garde-les si tu veux montrer les resultats)
+# veille/veille.db
+# veille/mentions.csv
+
+# Divers
+.DS_Store
+Thumbs.db

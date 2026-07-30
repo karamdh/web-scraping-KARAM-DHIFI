@@ -1,0 +1,33 @@
+{
+  "domaine": "github.com",
+  "ip": "140.82.121.4",
+  "whois": {
+    "registrar": "MarkMonitor, Inc.",
+    "creation_date": "2007-10-09",
+    "expiration_date": "2026-10-09",
+    "name_servers": [
+      "DNS1.P08.NSONE.NET",
+      "DNS2.P08.NSONE.NET",
+      "DNS3.P08.NSONE.NET",
+      "DNS4.P08.NSONE.NET",
+      "NS-1283.AWSDNS-32.ORG",
+      "NS-1707.AWSDNS-21.CO.UK",
+      "NS-421.AWSDNS-52.COM",
+      "NS-520.AWSDNS-01.NET"
+    ],
+    "country": "US"
+  },
+  "headers_http": {
+    "status": 200,
+    "server": "github.com",
+    "x_powered_by": "n/a",
+    "x_frame_options": "deny",
+    "csp_present": true,
+    "hsts_present": true
+  },
+  "sous_domaines": [
+    "ERREUR: HTTPSConnectionPool(host='crt.sh', port=443): Read timed out. (read timeout=40)"
+  ],
+  "robots_txt": "# If you would like to crawl GitHub contact us via https://support.github.com?tags=dotcom-robots\n# We also provide an extensive API: https://docs.github.com\nUser-agent: bingbot\nDisallow: /ekansa/Open-Context-Data\nDisallow: /ekansa/opencontext-*\nDisallow: /account-login\nDisallow: */tarball/\nDisallow: */zipball/\nDisallow: /Explodingstuff/\nDisallow: /copilot/\nDisallow: /copilot/c/\n\nUser-agent: adidxbot\nDisallow: /ekansa/Open-Context-Data\nDisallow: /ekansa/opencontext-*\nDisallow: /account-login\nDisallow: */tarball/\nDisallow: */zipball/\nDisallow: /Explodingstuff/\nDisallow: /copilot/\nDisallow: /copilot/c/\n\nUser-agent: BingPreview\nDisallow: /ekansa/Open-Context-Data\nDisallow: /ekansa/opencontext-*\nDisallow: /account-login\nDisallow: */tarball/\nDisallow: */zipball/\nDisallow: /Explodingstuff/\nDisallow: /copilot/\nDisallow: /copilot/c/\n\nUser-agent: baidu\ncrawl-delay: 1\n\n\nUser-agent: *\n\nDisallow: /*/*/pulse\nDisallow: /*/*/projects\nDisallow: /*/*/forks\nDisallow: /*/*/issues/new\nDisallow: /*/*/milest",
+  "nb_sous_domaines": 0
+}

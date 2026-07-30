@@ -8,6 +8,7 @@ __pycache__/
 
 # Données générées par les scrapers (volumineuses, régénérables)
 *.db
+!tp4-osint/veille/veille.db
 page_debug.html
 
 # OS

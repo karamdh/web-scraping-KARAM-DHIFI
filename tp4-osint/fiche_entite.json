@@ -1,0 +1,104 @@
+{
+  "entite": "BNP Paribas",
+  "sirene": {
+    "siren": "662042449",
+    "denomination": "BNP PARIBAS (HELLO BANK!)",
+    "adresse_siege": "16 BOULEVARD DES ITALIENS 75009 PARIS",
+    "code_naf": "64.19Z",
+    "date_creation": "1966-07-01",
+    "tranche_effectif": "53"
+  },
+  "wikipedia": {
+    "infobox": {
+      "Création": "1822 : création à Bruxelles de la Société générale de Belgique ancêtre de Fortis 1848 : création du Comptoir national d'escompte de Paris (CNEP) et du Comptoir national d'escompte de Mulhouse, ancêtre",
+      "Personnages clés": "Michel Pébereau , Baudouin Prot, Jean-Laurent Bonnafé , Jean Lemierre , Thierry Laborde , Renaud Dumora, Yann Gérardin.",
+      "Forme juridique": "Société anonyme",
+      "Action": "Euronext : BNP",
+      "Slogan": "La banque d'un monde qui change",
+      "Siège social": "16, boulevard des Italiens 75009 Paris France",
+      "Direction": "Jean-Laurent Bonnafé (Administrateur directeur général )",
+      "Président": "Jean Lemierre",
+      "Actionnaires": "Investisseurs institutionnels européens : 41,5 % Investisseurs institutionnels hors Europe : 31,7 % SFPI : 5,7 % BlackRock Inc : 7,0 % Salariés : 4,3 % Actionnaires individuels : 7,2 % Grand-Duché de ",
+      "Activité": "Banque , assurance",
+      "Produits": "Gestion d'actifs",
+      "Filiales": "BNP Paribas Asset Management France BNP Paribas Real Estate ( d ) BNP Paribas Cardif Cetelem Arval Floa BNP Paribas Personal Finance ( d ) Banca Nazionale del Lavoro BNP Paribas Factor Hello bank! BNP",
+      "Effectif": "180 000 (2025) [ 1 ]",
+      "SIREN": "662042449",
+      "TVA européenne": "FR76662042449",
+      "Site web": "group.bnpparibas",
+      "Capitalisation": "90,2 milliards d’€ (31/12/2025) [ 1 ]",
+      "Fonds propres": "132,1 milliards d’€ (2025) [ 1 ]",
+      "Dette": "2 661 milliards d’€ (2025) [ 1 ]",
+      "Chiffre d'affaires": "51,2 milliards d'€ (2025) [ 1 ] +4,9 %",
+      "Actifs sous gestion": "1 600 milliards d’€ (2025) [ 1 ]",
+      "Bilan comptable": "2 793 milliards d’€ (2025) [ 1 ]",
+      "Résultat net": "12,2 milliards d’€ (2025) [ 1 ] +0,3 %",
+      "Société précédente": "Banque nationale de Paris et Paribas"
+    },
+    "intro": "BNP Paribasou simplementBNPest unebanquefrançaisequi propose des services financiers à l'échelle internationale. En 2024, d'aprèsS&P Global, elle est la plus grande banque française en termes d'actifset la huitième plus grande au monde[2].",
+    "url": "https://fr.wikipedia.org/wiki/BNP_Paribas"
+  },
+  "presse": [
+    {
+      "titre": "Société Générale, BNP Paribas… le secteur des banques en recul, les embauches au plus bas depuis 2013 - capital.fr",
+      "source": "capital.fr",
+      "date": "Tue, 28 Jul 2026 10:58:57 GMT",
+      "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVEhQajRmY2NaSHNuMUJ4UGVib1I5Y09FSlMzNk9NckxmczVDNjhuS2NCRUtWZy1kNFdxYkZKWlBXemNFN1h6RFRBeklPZTk0YXBEemVfS1VrRGlmOU83YjBDMTBQZkhsVmxaNjlpMTB2dVEtODZKR0tPNXdtRUpWb0pDejZjYVdxY2owOFJOd3doN1BPZUNuZFZzaDRGeDBwbDlFWC04b3ZnVGo4UzVMM2dCOVoyczB2djFpWW8yYkxMallJLVhqZksyY196NVdadW1uMDBsLUZNZXFpaDVjbHh2UQ?oc=5"
+    },
+    {
+      "titre": "BNP Paribas : Cetelem Espagne attiserait les convoitises - boursier.com",
+      "source": "boursier.com",
+      "date": "Wed, 29 Jul 2026 08:38:00 GMT",
+      "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVDlaOF9hVFpoX1NsWVMwUmlZUjFraUpUMlJEZ3hMR01lM2dyYzAzbEFicFp0c3lvUUVhQmUyUkIzbkdFVU0yNjBab3JZVWxmQmctemtRR3MzLU1FejhXemhJMmtsVFBwVGpkdUhRWWFmNjdlb1R5S2VYa0RVQ2V1NTBHcV83TVlMVmpOV0s2ZVkwV3E1OERKWllibGpCaC1ZVFZZSlRGX0E1VVhDLU9WYXk5VGtBQTN1OWc?oc=5"
+    },
+    {
+      "titre": "BNP Paribas relève l'objectif de cours de Sobi à 555 couronnes (550), maintient son opinion à \"surperformer\" - BN - Zonebourse Suisse",
+      "source": "Zonebourse Suisse",
+      "date": "Thu, 30 Jul 2026 04:07:20 GMT",
+      "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxON1FBN2pXaTVyNFlWTTZoNmNNdFF4TUJwelROTE9hb2UwLUY2WDlvem8tcVU5bVZHRG1FcmdFc09tZVZ4RTdzMG5fbDhLTVY2eTUteEJVamctQUNzQk5HY0lvRkVWSG91M2N1aEQ2Qjk2ZFNBWXlla2FfS2FCdTFCY2RSLW1Eb0t5Zm5jZGs3eWNkcXVneTBDNjVRQUVWQkphZUNYREFQOHpIXzdoeENYUi1vbDdXZG5SUlJnMHAzSGJWYmpGclN2b2VSWkhBd1BDTzR4ZkxXZnhqOUx1WG9ONnhhOGhfd19CcFU4VQ?oc=5"
+    },
+    {
+      "titre": "Notre avis sur les résultats de BNP Paribas - Morningstar",
+      "source": "Morningstar",
+      "date": "Mon, 27 Jul 2026 16:29:13 GMT",
+      "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWFM5MTZCeVVJREVCOTBVVlN1OG1nVHppcGstdko5X282QlJWRU5hUVRPdnlJMjFjRFljZG1mWjFrUTJsalNIVkJfak1MenVfMkFBUHVDanI1b3p4bXpid1NNVjBQUkFuNzhoU0l4TTdFR1ZId3dGZEFDT2ZQMDJ3ZWoxeE9EUER0aDhqUA?oc=5"
+    },
+    {
+      "titre": "Biens gabonais mal acquis : le parquet demande le renvoi en correctionnelle de BNP Paribas et d’enfants d’Omar Bongo - Le Parisien",
+      "source": "Le Parisien",
+      "date": "Mon, 27 Jul 2026 20:07:14 GMT",
+      "lien": "https://news.google.com/rss/articles/CBMingJBVV95cUxOY1N4ZHlnYk16VDRManJDc0wwcFh6X0dFU2xwZkhtN2tKeENZY1JmWWxDMjNjWDdSdzlHVU9JSjY3WnNibWJfZUN1c0VKdURhTUx1V2UtQms4bHpVZ1BZRGY2R3ZkcnpSVVAtMmxqcmRGZTVYXzhoeVNBVEJXMTJSQmRQeGEwbHZIMEwzVkgxZVA4b1UzRjRnRzY4VG1VOVhoWGE4VFRZUjFXeEZBSkhDTnVUd2xlaU1meVdWTVpYV0l0MXRJNkpJeExTUTBCWTAtWmFTcHdjNWdMQllkaXYtc3VQLTh5aVppU3hLZWdaQjY0VEN4aGdrTEVsNFQ5SVhQLW10UW1aQ0hqN0JYaEIxa0pETXVEbzFIOXd1T3h3?oc=5"
+    },
+    {
+      "titre": "Crédit Conso : BNP Paribas étudie la vente de Cetelem en Espagne - Les Echos",
+      "source": "Les Echos",
+      "date": "Tue, 28 Jul 2026 14:09:23 GMT",
+      "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdndSSDlTR2IycVFvdzZXSWRqenpsRU9jd255RDBwMFNDc2h4VTlWQTI0TWpuVWJJbE1yc2RWbE5HSm5HSWRXMVpMQWxKQWxEOVRtOW5kNlJ0eUJabWtFRlJMSnlHbEpzd3RNXzZQcVNiRW8xbUo0ekIzUmlYRVdzMFYxSGdNejBITVEtVVgxcTVHcHBuM1U1RWY1R0Rhb2MteVQ5YkVTY1BndExxSUQ4RHk3X1ZZR1NHX3B1UnJhc2VQWWdSMkZr?oc=5"
+    },
+    {
+      "titre": "BNP Paribas Cardif prend 26% du capital d'IndiaFirst Life - Boursorama",
+      "source": "Boursorama",
+      "date": "Mon, 27 Jul 2026 05:26:00 GMT",
+      "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTJGOWNLSHJhcGF2UlRidHZ6MGl6QVlUcTZsTEJud1QyLTIxYi1EVjJRenRRUnkxVTFVRHMzdjhVQ21QajI1eXBqTHJZUGVIOGVwVE9MU3BOZVBDa3ZMazRnVGVNN0JjY2JsNVJtM1UxTHY0NWxyN0ZfOGE3MDBnMGdNVlIwUGdpXzJJUk9CdHVxMVRXanVVRUZuVU9iVzVxNk4xalp3dnJiaDlXb2NuYzVkd000OTN2SzlYUmJyNy1QWm1kQ3FYUUVMeVRBOFnSAdQBQVVfeXFMT1p5em1lTUtSd1ItX3pXWEdub0dMNjNnNk5MT0hwVEc1ai1QTUw0X3YwbzBjT1h4WmRFUXVSLTV0NV9SOUtMZVNtRlp0MXZlQWZVZjdiT2J0VlgxS3ptY09CTUVZa2dRVi10Zk1pdldZY3RCTTEwTEhycnNMeFVKUGlmeHZDSm1Dck1MQ04wNHhjWVhEeWRfMVNlWXp1YzN3UUd0WUJWcmVTU25RSUZFdEFUNUpSRG1QZTdLMzd6bXNtdE16SDJ4Qlp5Tkx1VVUzVGJRbFA?oc=5"
+    },
+    {
+      "titre": "Point recommandations des analystes : Accor, BNP Paribas, Dassault Aviation et Thales - BFM Bourse",
+      "source": "BFM Bourse",
+      "date": "Mon, 27 Jul 2026 06:49:16 GMT",
+      "lien": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeWVPcUlUZ0ZzSDZvQ3BVYzBrWjBGYXJ2NW5SdmRHX3czNmVIbXFqb3RLaUdPSFU2c2JvWjBpZGo5RjFnTG1fNThoM0RiY0ZnVVdvNFhSdjkxZDc0aGNPV2FtWUhNRW1SMTlXYUU4cHFXR0hrX2I0LUs1bC1OSFdtUVI4dVpZNEI3dGd6X2hmNmd1enZncVdMNzFWWWNUQVV2RTBCUW5pQ2tvZlFtNkNGUUxZakczQXFOOE1udzhLYlBnblktUWZDeklYeDJwRXUwT19xT1pseXBIY05XUGc?oc=5"
+    },
+    {
+      "titre": "Offre de bienvenue BNP Paribas, jusqu'à 160 euros offerts, à saisir avant le 15 septembre 2026 - FranceTransactions.com",
+      "source": "FranceTransactions.com",
+      "date": "Wed, 29 Jul 2026 12:07:13 GMT",
+      "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeHRySENKTnotNzVqMUdPMXMxQWRac2RNazlhU2VnSnpRdDV0NTZLcjZ3d1IxeVlmZWhkU1hxaWZVQkFBejRFX2YzQ21kQllkcnFxN3M2cW8wUUxIaW8yY3hzRXByWFVFNS0zT2otU3luVlZkQUlkMk1uOVJRVFVUN1NXOW9UckZ2NTZ0Vy1vdw?oc=5"
+    },
+    {
+      "titre": "Les actions à suivre lundi: Technip Energies, Thales, SES, Eutelsat, BNP Paribas, Vusion, TF1 - ABC Bourse",
+      "source": "ABC Bourse",
+      "date": "Mon, 27 Jul 2026 06:28:51 GMT",
+      "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQllkM3VqWTVvM2FLYjkxb2VHd2ZPdVBWUlNhOVNpZnlYLTV2X04tN2pvdDF0WGRkSUthVy1wNnNnYnF4V0NQejA3Q3llbml4NVIwT0dEWUdHZXFlcTl5WFlFNndEb0VVcWk0VnV0ZkFxQWZ0OHhuZ3J5OVh0eXFkSE41VzdEV1N0UEdoYXA2ck9TWkktaFEyeU5kSGFNblNVZEQ5R1FmcDBLRlFZeDNRQ2JPYUpDREE?oc=5"
+    }
+  ],
+  "nb_articles": 10
+}
