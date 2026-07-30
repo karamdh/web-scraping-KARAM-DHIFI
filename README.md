@@ -8,7 +8,8 @@ Ce repo regroupe les TP réalisés pendant la semaine "Web Scraping" du Mastère
 |---|---|---|
 | Jour 1 | `jour-01-requests-beautifulsoup/` | Veille technologique automatisée — scraper le Blog du Modérateur avec `requests` + `BeautifulSoup4`, export CSV + SQLite |
 | Jour 2 | `jour-02-selenium/` | Scraping dynamique avec Selenium — Doctolib et Les Echos |
-| Jour 3 | `jour-03-scrapy/` | Framework Scrapy — Boursorama (CAC 40, SQLite), Défi 1 : agenda culturel de Nice (jds.fr). AlloCine bloqué par Cloudflare Turnstile, documenté en remplacement |
+| Jour 3 | `jour-03-scrapy/` | Framework Scrapy — Boursorama (CAC 40, SQLite), Défi 1 : agenda culturel de Nice (jds.fr). AlloCiné bloqué par Cloudflare Turnstile, documenté en remplacement |
+| Jour 4 | `tp4-osint/` | OSINT (Open Source Intelligence) — empreinte technique d'un domaine (WHOIS, headers HTTP, crt.sh), cartographie d'une entité publique (API SIRENE, Wikipedia, veille presse), veille automatisée multi-flux RSS avec Scrapy et scoring de sentiment naïf. `ETHIQUE.md` documentant le cadre légal (droit / personnel / discret) pour chaque TD |
 
 ## Organisation
 
